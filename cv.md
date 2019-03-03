@@ -44,21 +44,21 @@ Training Program: 2018Q3 RSS training program
 
 #### Projects  
 Code-jam Culture-Portal (2019)  
-Project: (https://code-jam-5-group5.netlify.com/ru/)  
+Project: [https://code-jam-5-group5.netlify.com/ru/](https://code-jam-5-group5.netlify.com/ru/)  
 Position: developer, team-work management  
 Technologies: HTML, CSS, React, GatsbyJS, JavaScript, jQuery, Bootstrap, Webpack  
 Animated multi-component online browser game "Minimalistic Kitty's Game" (2019)  
-Project: https://mikhailnakanechny.github.io/minimalistic-game/  
-Dev-link: https://github.com/mikhailnakanechny/minimalistic-game  
+Project: [https://mikhailnakanechny.github.io/minimalistic-game/](https://mikhailnakanechny.github.io/minimalistic-game/)  
+Dev-link: [https://github.com/mikhailnakanechny/minimalistic-game](https://github.com/mikhailnakanechny/minimalistic-game)  
 Position: developer, designer  
 Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, Webpack  
 Youtube client (2018)   
-Project: https://mikhailnakanechny.github.io/2018Q3-youtube-client-gh/  
+Project: [https://mikhailnakanechny.github.io/2018Q3-youtube-client-gh/](https://mikhailnakanechny.github.io/2018Q3-youtube-client-gh/)  
 Position: developer, designer  
 Technologies: HTML, CSS, JavaScript, Webpack  
 Modal authorization window  (2019)  
-Project: https://mikhailnakanechny.github.io/modal-login/  
-Dev-link: https://github.com/mikhailnakanechny/modal-login  
+Project: [https://mikhailnakanechny.github.io/modal-login/](https://mikhailnakanechny.github.io/modal-login/)  
+Dev-link: [https://github.com/mikhailnakanechny/modal-login](https://github.com/mikhailnakanechny/modal-login)   
 Position: developer  
 Technologies: HTML, SCSS, JavaScript, Webpack  
 
