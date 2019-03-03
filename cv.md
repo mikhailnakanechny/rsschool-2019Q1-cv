@@ -2,7 +2,7 @@
 #### Junior Front-End Developer  
 Minsk, Republic of Belarus  
 Telephone number: +375291183438  
-E-mail: mikhailnakanechny@gmail.com    	
+E-mail: mikhailnakanechny@gmail.com     	
 Github: https://github.com/mikhailnakanechny  
 English: upper pre-intermediate (A2+)  
 
@@ -39,12 +39,12 @@ Responsibilities:
 
 RSS, 09.2018 – now  
 Position: student Front-End developer / trainee  
-Info: [The Rolling Scopes](https://school.rollingscopes.com/)   
+Info: [The Rolling Scopes School](https://school.rollingscopes.com/)   
 Training Program: 2018Q3 RSS training program  
 
 #### Projects  
 Code-jam Culture-Portal (2019)  
-Project: https://code-jam-5-group5.netlify.com/ru/  
+Project: (https://code-jam-5-group5.netlify.com/ru/)  
 Position: developer, team-work management  
 Technologies: HTML, CSS, React, GatsbyJS, JavaScript, jQuery, Bootstrap, Webpack  
 Animated multi-component online browser game "Minimalistic Kitty's Game" (2019)  
