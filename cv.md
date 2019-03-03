@@ -64,7 +64,7 @@ Technologies: HTML, SCSS, JavaScript, Webpack
 
 
 #### Education and Training  
-The Rolling Scopes School, course Javascript/Front-End (https://school.rollingscopes.com/), 09.2018 – 03.2019   
-English language courses: Streamline pre-intermediate (A2+) , 2018 – till now  
-Specialist degree, GSTU, Department of automation and information systems,  Gomel, Belarus                                                            
+The Rolling Scopes School, course Javascript/Front-End [https://school.rollingscopes.com/](https://school.rollingscopes.com/), 09.2018 – 03.2019   
+English language courses: Streamline pre-intermediate (A2+), 2018 – till now  
+Specialist degree, GSTU, Department of automation and information systems, Gomel, Belarus                                                            
 Specialist degree, BTEU, Department of Economics and management, Gomel, Belarus  
