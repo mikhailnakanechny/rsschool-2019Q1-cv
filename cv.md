@@ -39,7 +39,7 @@ Responsibilities:
 
 RSS, 09.2018 – now  
 Position: student Front-End developer / trainee  
-Info: [The Rolling Scopes] (https://school.rollingscopes.com/)   
+Info: [The Rolling Scopes](https://school.rollingscopes.com/)   
 Training Program: 2018Q3 RSS training program  
 
 #### Projects  
