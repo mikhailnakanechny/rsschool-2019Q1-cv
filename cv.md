@@ -2,8 +2,8 @@
 #### Junior Front-End Developer  
 Minsk, Republic of Belarus  
 Telephone number: +375291183438  
-E-mail: mikhailnakanechny@gmail.com  	
-Github:  https://github.com/mikhailnakanechny  
+E-mail: mikhailnakanechny@gmail.com    	
+Github: https://github.com/mikhailnakanechny  
 English: upper pre-intermediate (A2+)  
 
 #### Summary of Qualifications 	
