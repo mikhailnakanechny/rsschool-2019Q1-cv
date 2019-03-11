@@ -2,64 +2,76 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <link rel="stylesheet" href="normalize.css">
   <link rel="stylesheet" href="style.css">
   <title>Mikhail Nakanechny CV</title>
 </head>
 <body>
 <div class="wrapper">
   <header>
-    <h1>Mikhail Nakanechny</h1>
-    <h2>Junior Front-End Developer</h2>
-    <div>
-      <p>Minsk, Republic of Belarus</p>
-      <p>Telephone number: +375291183438</p>
-      <p>E-mail: mikhailnakanechny@gmail.com</p>
-      <p>Github: https://github.com/mikhailnakanechny</p>
-      <p>English: upper pre-intermediate (A2+)</p>
-    </div>
+    <h4>Mikhail Nakanechny - Junior Front-End Developer</h4>
+    <nav class="nav_menu">
+      <a href="./index.html#about-me">About me</a>
+      <a href="./index.html#contacts">Contacts</a>
+      <a href="./index.html#projects">My projects</a>
+      <a href="./index.html#projects">My education</a>
+      <a href="https://github.com/mikhailnakanechny" target="_blank">Link to GitHub</a>
+    </nav>
   </header>
   <main>
-    <section>
-      <h2>Summary of Qualifications</h2>
-      Novice Front-End developer with technical education.
-      Confident knowledge of HTML, CSS/SCSS, JavaScript, React, Redux, Node.js
-
-      #### Technical Skills
-      Programming languages and technologies: JavaScript, HTML, CSS/SCSS, Node.js
-      Programming practices: Kanban, Code review
-      Frameworks and Libraries: React, Redux, Lodash, jQuery, Bootstrap
-      Tools: GIT, Webpack, Webstorm, GitHub, Babel
-      Studying now : Firebase + CircleCI
-      Another skills: AutoCad, VBA-scripts, special development tools for Siemens / Rockwell Automation / Omron /
-      Mitsubishi
-      control systems, mentoring students in the field of industrial control systems, good communication skills
+    <section class="contacts" id="contacts">
+      <img src="my_avatar.jpg" alt="photo of Mikhail Nakanechny" width="200" height="300">
+      <div>
+        <h1>Mikhail Nakanechny</h1>
+        <h2>Junior Front-End Developer</h2>
+        <p>Minsk, Republic of Belarus</p>
+        <p>Telephone number: +375291183438</p>
+        <p>E-mail: mikhailnakanechny@gmail.com</p>
+        <p>Github: https://github.com/mikhailnakanechny</p>
+        <p>English: upper pre-intermediate (A2+)</p>
+      </div>
+    </section>
+    <section id="about-me">
+      <h3>Summary of Qualifications</h3>
+      <p>Novice Front-End developer with technical education.
+        Confident knowledge of HTML, CSS/SCSS, JavaScript, React, Redux, Node.js</p>
+      <h3>Technical Skills</h3>
+      <p><strong>Programming languages and technologies:</strong> JavaScript, HTML, CSS/SCSS, Node.js</p>
+      <p><strong>Programming practices:</strong> Kanban, Code review</p>
+      <p><strong>Frameworks and Libraries:</strong> React, Redux, Lodash, jQuery, Bootstrap</p>
+      <p><strong>Tools:</strong> GIT, Webpack, Webstorm, GitHub, Babel</p>
+      <p><strong>Another skills:</strong> AutoCad, VBA-scripts, special development tools for Siemens / Rockwell
+        Automation / Omron /
+        Mitsubishi control systems, mentoring students in the field of industrial control systems, good communication
+        skills</p>
     </section>
     <section>
-      <h2>Professional Experience</h2>
-      08.2010 – now
-      Position: Control Systems Engineer
-      Info: https://en.wikipedia.org/wiki/Control_engineering
-      Experience: 5+ years of experience in the development of industrial control systems.
-      More than 30 successfully completed projects (customers: Coca-cola Belarus, Naftan, Polymir)
+      <h3>Professional Experience</h3>
+      <p><strong>08.2010 – now</strong></p>
+      <p><strong>Position:</strong> Control Systems Engineer</p>
+      <p><strong>Info:</strong> https://en.wikipedia.org/wiki/Control_engineering</p>
+      <p><strong>Experience:</strong> 5+ years of experience in the development of industrial control systems.
+        More than 30 successfully completed projects (customers: Coca-cola Belarus, Naftan, Polymir)</p>
 
-      Responsibilities:
-      * communication with customers
-      * estimations
-      * development of technical specifications
-      * development of the project structure
-      * programming of PLC
-      * development of HMI visualization
-      * implement features
-      * project support
-      * refactorings
+      <ul>Responsibilities:
+        <li>communication with customers</li>
+        <li>estimations</li>
+        <li>development of technical specifications</li>
+        <li>development of the project structure</li>
+        <li>programming of PLC</li>
+        <li>development of HMI visualization</li>
+        <li>implement features</li>
+        <li>project support</li>
+        <li>refactorings</li>
+      </ul>
 
-      RSS, 09.2018 – now
+      <p><strong>RSS, 09.2018 – now</strong></p>
       Position: student Front-End developer / trainee
       Info: [The Rolling Scopes School](https://school.rollingscopes.com/)
       Training Program: 2018Q3 RSS training program
     </section>
-    <section>
-      <h2>Projects</h2>
+    <section id="projects">
+      <h3>Projects</h3>
       Code-jam Culture-Portal (2019)
       Project: [https://code-jam-5-group5.netlify.com/ru/](https://code-jam-5-group5.netlify.com/ru/)
       Position: developer, team-work management
@@ -82,8 +94,8 @@
       Position: developer
       Technologies: HTML, SCSS, JavaScript, Webpack
     </section>
-    <section>
-      <h2>Education and Training</h2>
+    <section id="education">
+      <h3>Education and Training</h3>
       The Rolling Scopes School, course Javascript/Front-End
       [https://school.rollingscopes.com/](https://school.rollingscopes.com/), 09.2018 – 03.2019
       English language courses: Streamline pre-intermediate (A2+), 2018 – till now
