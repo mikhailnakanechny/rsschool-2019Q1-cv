@@ -3,6 +3,15 @@ body {
   background: #323232;
 }
 
+* a {
+  text-decoration: none;
+  color: cadetblue;
+}
+
+* a:hover {
+  color: #2eb398;
+}
+
 .wrapper {
   max-width: 1024px;
   box-sizing: border-box;
@@ -19,22 +28,22 @@ header {
   top: 0;
   left: 0;
   text-align: center;
-  max-height: 6%;
   min-width: 100%;
-  padding-bottom: .5%;
+  padding-bottom: .5vh;
   background: #323232;
   color: whitesmoke;
 }
 
 header > h4 {
   margin: .5%;
-  padding-bottom: .1%;
+  padding: .5%;
 }
 
-* a {
-  text-decoration: none;
-  color: cadetblue;
+header > nav {
+  margin: .5%;
+  padding-bottom: .1vh;
 }
+
 
 nav a {
   padding: .2%;
@@ -45,14 +54,10 @@ nav a {
   border-radius: 20%;
 }
 
-nav a:hover {
-  color: #2eb398;
-}
-
 .contacts {
   display: flex;
   margin: 0 auto;
-  margin-top: 8%;
+  margin-top: 8vh;
   padding-bottom: 0.5%;
   font-size: 16px;
   border-bottom: 1px solid #323232;
@@ -71,20 +76,22 @@ footer {
   min-width: 1024px;
   box-sizing: padding-box;
   min-height: 5%;
-  margin-left: -2.5%;
-  /*padding-top: .3%;*/
+  margin-left: -2vw;
   padding-left: 3%;
   padding-bottom: 1%;
   background: #323232;
   color: whitesmoke;
 }
 
-/*footer > *{*/
-  /*padding: 0;*/
-  /*margin: 0;*/
-/*}*/
+footer > h3 {
+  padding: .1%;
+  margin-bottom: .3%;
+}
 
-/*footer:first-child{*/
-  /*padding: 0.5%;*/
-  /*margin-top: 1%;*/
-/*}*/
+footer > p {
+  font-size: smaller;
+  padding: .1%;
+  margin: .1%;
+}
+
+
