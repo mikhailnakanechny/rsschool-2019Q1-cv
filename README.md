@@ -8,4 +8,6 @@
   
 see cv.md file in gh-pages branch
 
-[Link to CV page](https://mikhailnakanechny.github.io/rsschool-2019Q1-cv/cv)
+[Link to CV md page](https://mikhailnakanechny.github.io/rsschool-2019Q1-cv/cv)
+
+[Link to CV html page](https://mikhailnakanechny.github.io/rsschool-2019Q1-cv/)

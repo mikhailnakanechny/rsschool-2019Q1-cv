@@ -1,0 +1,97 @@
+
+body {
+  background: #323232;
+}
+
+* a {
+  text-decoration: none;
+  color: cadetblue;
+}
+
+* a:hover {
+  color: #2eb398;
+}
+
+.wrapper {
+  max-width: 1024px;
+  box-sizing: border-box;
+  padding: 0 2%;
+  margin-bottom: 0;
+  background: whitesmoke;
+  margin-left: auto;
+  margin-right: auto;
+  overflow-x: hidden;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  text-align: center;
+  min-width: 100%;
+  padding-bottom: .5vh;
+  background: #323232;
+  color: whitesmoke;
+}
+
+header > h4 {
+  margin: .5%;
+  padding: .5%;
+}
+
+header > nav {
+  margin: .5%;
+  padding-bottom: .1vh;
+}
+
+
+nav a {
+  padding: .2%;
+  margin: 0 .5%;
+  text-decoration: none;
+  color: whitesmoke;
+  border: 1px solid lightslategray;
+  border-radius: 20%;
+}
+
+.contacts {
+  display: flex;
+  margin: 0 auto;
+  margin-top: 8vh;
+  padding-bottom: 0.5%;
+  font-size: 16px;
+  border-bottom: 1px solid #323232;
+}
+
+.contacts > * {
+  padding: 1%;
+}
+
+section {
+  padding-bottom: 0.5%;
+  border-bottom: 1px solid #323232;
+}
+
+footer {
+  min-width: 1024px;
+  box-sizing: padding-box;
+  min-height: 5%;
+  margin-left: -2vw;
+  padding-left: 3%;
+  padding-bottom: 1%;
+  background: #323232;
+  color: whitesmoke;
+}
+
+footer > h3 {
+  padding: .1%;
+  margin-bottom: .3%;
+}
+
+footer > p {
+  font-size: smaller;
+  padding: .1%;
+  margin: .1%;
+}
+
+
