@@ -1,7 +1,7 @@
 
 body {
   max-width: 1024px;
-  background: lightslategray;
+  background: whitesmoke;
   margin-left: auto;
   margin-right: auto;
   overflow-x: hidden;
@@ -12,21 +12,31 @@ header {
   top: 0;
   left: 0;
   text-align: center;
-  max-height: 85px;
+  max-height: 6%;
   min-width: 100%;
   padding-bottom: .5%;
-  z-index: 1;
   background: #323232;
-  color: lightslategray;
+  color: whitesmoke;
 }
 
 header > h4 {
   margin: .5%;
+  padding-bottom: .1%;
 }
-.nav__menu a{
+
+* a {
   text-decoration: none;
   color: lightslategray;
-  padding-left: .5%;
+}
+
+nav a {
+  padding: .2%;
+  margin: 0 .5%;
+  text-decoration: none;
+  color: whitesmoke;
+
+  border: 1px solid lightslategray;
+  border-radius: 20%;
 }
 
 nav a:hover {
@@ -39,7 +49,7 @@ nav a:hover {
   margin-top: 6%;
   padding-bottom: 0.5%;
   font-size: 16px;
-  border-bottom: 1px solid #323232 ;
+  border-bottom: 1px solid #323232;
 }
 
 .contacts > * {
@@ -48,5 +58,17 @@ nav a:hover {
 
 section {
   padding-bottom: 0.5%;
-  border-bottom: 1px solid #323232 ;
+  border-bottom: 1px solid #323232;
+}
+
+footer {
+  max-height: 5%;
+  min-width: 100%;
+  background: #323232;
+  color: whitesmoke;
+}
+
+footer a {
+  text-decoration: none;
+  color: whitesmoke;
 }
