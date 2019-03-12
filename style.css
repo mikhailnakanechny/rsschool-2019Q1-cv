@@ -1,6 +1,13 @@
 
 body {
+  background: #323232;
+}
+
+.wrapper {
   max-width: 1024px;
+  box-sizing: border-box;
+  padding: 0 2%;
+  margin-bottom: 0;
   background: whitesmoke;
   margin-left: auto;
   margin-right: auto;
@@ -26,7 +33,7 @@ header > h4 {
 
 * a {
   text-decoration: none;
-  color: lightslategray;
+  color: cadetblue;
 }
 
 nav a {
@@ -34,7 +41,6 @@ nav a {
   margin: 0 .5%;
   text-decoration: none;
   color: whitesmoke;
-
   border: 1px solid lightslategray;
   border-radius: 20%;
 }
@@ -46,7 +52,7 @@ nav a:hover {
 .contacts {
   display: flex;
   margin: 0 auto;
-  margin-top: 6%;
+  margin-top: 8%;
   padding-bottom: 0.5%;
   font-size: 16px;
   border-bottom: 1px solid #323232;
@@ -62,13 +68,23 @@ section {
 }
 
 footer {
-  max-height: 5%;
-  min-width: 100%;
+  min-width: 1024px;
+  box-sizing: padding-box;
+  min-height: 5%;
+  margin-left: -2.5%;
+  /*padding-top: .3%;*/
+  padding-left: 3%;
+  padding-bottom: 1%;
   background: #323232;
   color: whitesmoke;
 }
 
-footer a {
-  text-decoration: none;
-  color: whitesmoke;
-}
+/*footer > *{*/
+  /*padding: 0;*/
+  /*margin: 0;*/
+/*}*/
+
+/*footer:first-child{*/
+  /*padding: 0.5%;*/
+  /*margin-top: 1%;*/
+/*}*/
